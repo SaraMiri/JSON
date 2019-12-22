@@ -1,0 +1,344 @@
+[
+    {
+    "Eroski": {
+        "nombre": "Eroski",
+        "direccion": "Rúa de García Barbón, 54",
+        "poblacion": "Vigo",
+        "codigo_postal": "36201",
+        "geolocalizacion": {
+            "latitud": "42º.237035",
+            "longitud": "8º.713223"
+        },
+        "secciones": [
+            {
+                "seccion": "carnicería",
+                "personal": 4,
+                "sueldos": 8.000,
+                "productos": [
+                    {
+                        "nombre": "cerdo",
+                        "descripción": "filetes de cerdo",
+                        "marca": "Eroski",
+                        "perecedero": true,
+                        "precio": 2.5,
+                        "fecha_inicio_oferta": null,
+                        "fecha_fin_oferta": null,
+                        "oferta": false,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "ternera",
+                        "descripción": "filetes de ternera",
+                        "marca": "Eroski",
+                        "perecedero": true,
+                        "precio": 3.5,
+                        "fecha_inicio_oferta": "06/12/2019",
+                        "fecha_fin_oferta": "25/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    },
+                    {
+                        "nombre": "pavo",
+                        "descripción": "pechuga de pavo",
+                        "marca": "Eroski",
+                        "perecedero": true,
+                        "precio": 1.75,
+                        "fecha_inicio_oferta": "01/12/2019",
+                        "fecha_fin_oferta": "31/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 3
+                    }
+                ]
+            },
+            {
+                "seccion": "pescadería",
+                "personal": 5,
+                "sueldos": 10.000,
+                "productos": [
+                    {
+                        "nombre": "lubina",
+                        "descripción": "lubina congelada",
+                        "marca": "Eroski",
+                        "perecedero": true,
+                        "precio": 3.45,
+                        "fecha_inicio_oferta": "15/12/2019",
+                        "fecha_fin_oferta": "31/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    },
+                    {
+                        "nombre": "merluza",
+                        "descripción": "medallones de merluza",
+                        "marca": "Eroski",
+                        "perecedero": true,
+                        "precio": 1.99,
+                        "fecha_inicio_oferta": "30/11/2019",
+                        "fecha_fin_oferta": "01/01/2020",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    }
+                ]
+            },
+            {
+                "seccion": "fruta y verdura",
+                "personal": 2,
+                "sueldos": 4000,
+                "productos": [
+                    {
+                        "nombre": "manzanas",
+                        "descripción": "pack de 6 manzanas",
+                        "marca": "La Huerta",
+                        "perecedero": true,
+                        "precio": 1.2,
+                        "fecha_inicio_oferta": null,
+                        "fecha_fin_oferta": null,
+                        "oferta": false,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    },
+                    {
+                        "nombre": "plátanos",
+                        "descripción": "plátanos de Canarias",
+                        "marca": "Canary",
+                        "perecedero": true,
+                        "precio": 1.25,
+                        "fecha_inicio_oferta": "01/11/2019",
+                        "fecha_fin_oferta": "01/01/2020",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 7
+                    },
+                    {
+                        "nombre": "pimientos",
+                        "descripción": "selección de pimientos rojos,verdes y amarillos",
+                        "marca": "Pimientimp",
+                        "perecedero": true,
+                        "precio": 1.25,
+                        "fecha_inicio_oferta": "15/11/2019",
+                        "fecha_fin_oferta": "30/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "seccion": "lácteos",
+                "personal": 1,
+                "sueldo": 2000,
+                "productos": [
+                    {
+                        "nombre": "leche",
+                        "descripción": "leche semidesnatada",
+                        "marca": "Feiraco",
+                        "perecedero": true,
+                        "precio": 1.15,
+                        "fecha_inicio_oferta": null,
+                        "fecha_fin_oferta": null,
+                        "oferta": false,
+                        "comprado": false,
+                        "unidad_de_medida": "litros",
+                        "cantidad": 6
+                    },
+                    {
+                        "nombre": "yogures griegos",
+                        "descripción": "yogur griego natural, pack de 6",
+                        "marca": "Larsa",
+                        "perecedero": true,
+                        "precio": 1.2,
+                        "fecha_inicio_oferta": "01/10/2019",
+                        "fecha_fin_oferta": "30/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "gramos",
+                        "cantidad": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "Gadis": {
+        "nombre": "Gadis",
+        "direccion": "Rúa Rosalía de Castro, 58",
+        "poblacion": "Vigo",
+        "codigo_postal": "36201",
+        "geolocalizacion": {
+            "latitud": "42º .2377083",
+            "longitud": "-8º .7134028"
+        },
+        "secciones": [
+            {
+                "seccion": "carnicería",
+                "personal": 4,
+                "sueldos": 10.500,
+                "productos": [
+                    {
+                        "nombre": "cerdo",
+                        "descripción": "filetes de cerdo",
+                        "marca": "Gadis",
+                        "perecedero": true,
+                        "precio": 2.65,
+                        "fecha_inicio_oferta": "01/11/2019",
+                        "fecha_fin_oferta": "25/12/2019",
+                        "oferta": true,
+                        "comprado": true,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "ternera",
+                        "descripción": "filetes de ternera",
+                        "marca": "Gadis",
+                        "perecedero": true,
+                        "precio": 2.99,
+                        "fecha_inicio_oferta": "10/12/2019",
+                        "fecha_fin_oferta": "27/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    },
+                    {
+                        "nombre": "pavo",
+                        "descripción": "pechuga de pavo",
+                        "marca": "Gadis",
+                        "perecedero": true,
+                        "precio": 1.99,
+                        "fecha_inicio_oferta": "01/10/2019",
+                        "fecha_fin_oferta": "30/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "seccion": "pescadería",
+                "personal": 4,
+                "sueldos": 10.500,
+                "productos": [
+                    {
+                        "nombre": "lubina",
+                        "descripción": "lubina congelada",
+                        "marca": "Gadis",
+                        "perecedero": true,
+                        "precio": 3.25,
+                        "fecha_inicio_oferta": null,
+                        "fecha_fin_oferta": null,
+                        "oferta": false,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    },
+                    {
+                        "nombre": "merluza",
+                        "descripción": "medallones de merluza",
+                        "marca": "Gadis",
+                        "perecedero": true,
+                        "precio": 1.75,
+                        "fecha_inicio_oferta": "30/09/2019",
+                        "fecha_fin_oferta": "01/02/2020",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "seccion": "fruta y verdura",
+                "personal": 2,
+                "sueldos": 5500,
+                "productos": [
+                    {
+                        "nombre": "manzanas",
+                        "descripción": "pack de 8 manzanas",
+                        "marca": "Apple's",
+                        "perecedero": true,
+                        "precio": 1.75,
+                        "fecha_inicio_oferta": "10/11/2019",
+                        "fecha_fin_oferta": "04/05/2020",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 1
+                    },
+                    {
+                        "nombre": "plátanos",
+                        "descripción": "plátanos Canarias",
+                        "marca": "Banana Canaria",
+                        "perecedero": true,
+                        "precio": 1.25,
+                        "fecha_inicio_oferta": "01/11/2019",
+                        "fecha_fin_oferta": "01/01/2020",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 7
+                    },
+                    {
+                        "nombre": "pimientos",
+                        "descripción": "selección de pimientos",
+                        "marca": "The Vegetable Company",
+                        "perecedero": true,
+                        "precio": 1.75,
+                        "fecha_inicio_oferta": "13/12/2019",
+                        "fecha_fin_oferta": "29/12/2019",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "kilos",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "seccion": "lácteos",
+                "personal": 1,
+                "sueldo": 3400,
+                "productos": [
+                    {
+                        "nombre": "leche",
+                        "descripción": "leche semidesnatada",
+                        "marca": "Feiraco",
+                        "perecedero": true,
+                        "precio": 0.99,
+                        "fecha_inicio_oferta": "01/10/2019",
+                        "fecha_fin_oferta": "01/02/2020",
+                        "oferta": true,
+                        "comprado": false,
+                        "unidad_de_medida": "litros",
+                        "cantidad": 6
+                    },
+                    {
+                        "nombre": "yogures griegos",
+                        "descripción": "yogur griego natural, pack de 6",
+                        "marca": "Oikos",
+                        "perecedero": true,
+                        "precio": 2.75,
+                        "fecha_inicio_oferta": null,
+                        "fecha_fin_oferta": null,
+                        "oferta": false,
+                        "comprado": false,
+                        "unidad_de_medida": "gramos",
+                        "cantidad": 1
+                    }
+                ]
+            }
+        ]
+    }
+    }
+]

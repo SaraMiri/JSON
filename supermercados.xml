@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<Supermercados>
+		<Eroski>
+			<nombre>Eroski</nombre>
+			<direccion>Rúa de García Barbón, 54</direccion>
+			<poblacion>Vigo</poblacion>
+			<codigo_postal>36201</codigo_postal>
+			<geolocalizacion>
+				<latitud>42º.237035</latitud>
+				<longitud>8º.713223</longitud>
+			</geolocalizacion>
+			<secciones>
+				<seccion>carnicería</seccion>
+				<personal>4</personal>
+				<sueldos>8</sueldos>
+				<productos>
+					<nombre>cerdo</nombre>
+					<descripción>filetes de cerdo</descripción>
+					<marca>Eroski</marca>
+					<perecedero>true</perecedero>
+					<precio>2.5</precio>
+					<fecha_inicio_oferta />
+					<fecha_fin_oferta />
+					<oferta>false</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+				<productos>
+					<nombre>ternera</nombre>
+					<descripción>filetes de ternera</descripción>
+					<marca>Eroski</marca>
+					<perecedero>true</perecedero>
+					<precio>3.5</precio>
+					<fecha_inicio_oferta>06/12/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>25/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+				<productos>
+					<nombre>pavo</nombre>
+					<descripción>pechuga de pavo</descripción>
+					<marca>Eroski</marca>
+					<perecedero>true</perecedero>
+					<precio>1.75</precio>
+					<fecha_inicio_oferta>01/12/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>31/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>3</cantidad>
+				</productos>
+			</secciones>
+			<secciones>
+				<seccion>pescadería</seccion>
+				<personal>5</personal>
+				<sueldos>10</sueldos>
+				<productos>
+					<nombre>lubina</nombre>
+					<descripción>lubina congelada</descripción>
+					<marca>Eroski</marca>
+					<perecedero>true</perecedero>
+					<precio>3.45</precio>
+					<fecha_inicio_oferta>15/12/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>31/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+				<productos>
+					<nombre>merluza</nombre>
+					<descripción>medallones de merluza</descripción>
+					<marca>Eroski</marca>
+					<perecedero>true</perecedero>
+					<precio>1.99</precio>
+					<fecha_inicio_oferta>30/11/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>01/01/2020</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+			</secciones>
+			<secciones>
+				<seccion>fruta y verdura</seccion>
+				<personal>2</personal>
+				<sueldos>4000</sueldos>
+				<productos>
+					<nombre>manzanas</nombre>
+					<descripción>pack de 6 manzanas</descripción>
+					<marca>La Huerta</marca>
+					<perecedero>true</perecedero>
+					<precio>1.2</precio>
+					<fecha_inicio_oferta />
+					<fecha_fin_oferta />
+					<oferta>false</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+				<productos>
+					<nombre>plátanos</nombre>
+					<descripción>plátanos de Canarias</descripción>
+					<marca>Canary</marca>
+					<perecedero>true</perecedero>
+					<precio>1.25</precio>
+					<fecha_inicio_oferta>01/11/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>01/01/2020</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>7</cantidad>
+				</productos>
+				<productos>
+					<nombre>pimientos</nombre>
+					<descripción>selección de pimientos rojos,verdes y amarillos</descripción>
+					<marca>Pimientimp</marca>
+					<perecedero>true</perecedero>
+					<precio>1.25</precio>
+					<fecha_inicio_oferta>15/11/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>30/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+			</secciones>
+			<secciones>
+				<seccion>lácteos</seccion>
+				<personal>1</personal>
+				<sueldo>2000</sueldo>
+				<productos>
+					<nombre>leche</nombre>
+					<descripción>leche semidesnatada</descripción>
+					<marca>Feiraco</marca>
+					<perecedero>true</perecedero>
+					<precio>1.15</precio>
+					<fecha_inicio_oferta />
+					<fecha_fin_oferta />
+					<oferta>false</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>litros</unidad_de_medida>
+					<cantidad>6</cantidad>
+				</productos>
+				<productos>
+					<nombre>yogures griegos</nombre>
+					<descripción>yogur griego natural, pack de 6</descripción>
+					<marca>Larsa</marca>
+					<perecedero>true</perecedero>
+					<precio>1.2</precio>
+					<fecha_inicio_oferta>01/10/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>30/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>gramos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+			</secciones>
+		</Eroski>
+		<Gadis>
+			<nombre>Gadis</nombre>
+			<direccion>Rúa Rosalía de Castro, 58</direccion>
+			<población>Vigo</población>
+			<codigo_postal>36201</codigo_postal>
+			<geolocalizacion>
+				<latitud>42º .2377083</latitud>
+				<longitud>-8º .7134028</longitud>
+			</geolocalizacion>
+			<secciones>
+				<seccion>carnicería</seccion>
+				<personal>4</personal>
+				<sueldos>10.5</sueldos>
+				<productos>
+					<nombre>cerdo</nombre>
+					<descripción>filetes de cerdo</descripción>
+					<marca>Gadis</marca>
+					<perecedero>true</perecedero>
+					<precio>2.65</precio>
+					<fecha_inicio_oferta>01/11/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>25/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>true</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+				<productos>
+					<nombre>ternera</nombre>
+					<descripción>filetes de ternera</descripción>
+					<marca>Gadis</marca>
+					<perecedero>true</perecedero>
+					<precio>2.99</precio>
+					<fecha_inicio_oferta>10/12/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>27/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+				<productos>
+					<nombre>pavo</nombre>
+					<descripción>pechuga de pavo</descripción>
+					<marca>Gadis</marca>
+					<perecedero>true</perecedero>
+					<precio>1.99</precio>
+					<fecha_inicio_oferta>01/10/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>30/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+			</secciones>
+			<secciones>
+				<seccion>pescadería</seccion>
+				<personal>4</personal>
+				<sueldos>10.5</sueldos>
+				<productos>
+					<nombre>lubina</nombre>
+					<descripción>lubina congelada</descripción>
+					<marca>Gadis</marca>
+					<perecedero>true</perecedero>
+					<precio>3.25</precio>
+					<fecha_inicio_oferta />
+					<fecha_fin_oferta />
+					<oferta>false</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+				<productos>
+					<nombre>merluza</nombre>
+					<descripción>medallones de merluza</descripción>
+					<marca>Gadis</marca>
+					<perecedero>true</perecedero>
+					<precio>1.75</precio>
+					<fecha_inicio_oferta>30/09/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>01/02/2020</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+			</secciones>
+			<secciones>
+				<seccion>fruta y verdura</seccion>
+				<personal>2</personal>
+				<sueldos>5500</sueldos>
+				<productos>
+					<nombre>manzanas</nombre>
+					<descripción>pack de 8 manzanas</descripción>
+					<marca>Apple's</marca>
+					<perecedero>true</perecedero>
+					<precio>1.75</precio>
+					<fecha_inicio_oferta>10/11/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>04/05/2020</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+				<productos>
+					<nombre>plátanos</nombre>
+					<descripción>plátanos Canarias</descripción>
+					<marca>Banana Canaria</marca>
+					<perecedero>true</perecedero>
+					<precio>1.25</precio>
+					<fecha_inicio_oferta>01/11/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>01/01/2020</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>7</cantidad>
+				</productos>
+				<productos>
+					<nombre>pimientos</nombre>
+					<descripción>selección de pimientos</descripción>
+					<marca>The Vegetable Company</marca>
+					<perecedero>true</perecedero>
+					<precio>1.75</precio>
+					<fecha_inicio_oferta>13/12/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>29/12/2019</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>kilos</unidad_de_medida>
+					<cantidad>2</cantidad>
+				</productos>
+			</secciones>
+			<secciones>
+				<seccion>lácteos</seccion>
+				<personal>1</personal>
+				<sueldo>3400</sueldo>
+				<productos>
+					<nombre>leche</nombre>
+					<descripción>leche semidesnatada</descripción>
+					<marca>Feiraco</marca>
+					<perecedero>true</perecedero>
+					<precio>0.99</precio>
+					<fecha_inicio_oferta>01/10/2019</fecha_inicio_oferta>
+					<fecha_fin_oferta>01/02/2020</fecha_fin_oferta>
+					<oferta>true</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>litros</unidad_de_medida>
+					<cantidad>6</cantidad>
+				</productos>
+				<productos>
+					<nombre>yogures griegos</nombre>
+					<descripción>yogur griego natural, pack de 6</descripción>
+					<marca>Oikos</marca>
+					<perecedero>true</perecedero>
+					<precio>2.75</precio>
+					<fecha_inicio_oferta />
+					<fecha_fin_oferta />
+					<oferta>false</oferta>
+					<comprado>false</comprado>
+					<unidad_de_medida>gramos</unidad_de_medida>
+					<cantidad>1</cantidad>
+				</productos>
+			</secciones>
+		</Gadis>
+	</Supermercados>
+	
